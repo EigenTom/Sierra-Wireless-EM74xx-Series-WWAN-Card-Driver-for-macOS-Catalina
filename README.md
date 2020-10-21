@@ -1,0 +1,1 @@
+# Sierra-Wireless-EM74xx-Series-WWAN-Card-Driver-for-macOS-Catalina
