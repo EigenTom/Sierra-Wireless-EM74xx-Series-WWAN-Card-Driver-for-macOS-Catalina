@@ -9,3 +9,10 @@ To modify this kext in order to drive the cards under other 10.15.x versions:
 2. Copy them, open "/Legacy_Sierra_QMI.kext/Contents/Info.plist", change "BuildMachineOSBuild" to your build number. 
 3. Save, load and then restart. You will find information about the card displayed correctly both at the "WWAN" slot and "USB" slot in SystemInformation.app, and the signal sign will appear on the status bar. 
 
+reference:
+
+https://osxlatitude.com/forums/topic/10401-dw5570-how-can-i-use-the-wwan-under-high-sierra/
+
+https://osxlatitude.com/forums/topic/13027-dell-dw5811e-sierra-wireless-em7455-wwan-not-working/?tab=comments#comment-100096
+
+https://osxlatitude.com/forums/topic/8006-sierra-wireless-qmi-modules-mcem73xx77xx8805etc-dell-dw557058085809etc/
